@@ -2,7 +2,7 @@ import openai
 from gpt import GPT
 from gpt import Example
 
-openai.api_key = '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'
+openai.api_key = # enter your api-key here
 
 gpt = GPT(engine="davinci",
           temperature=0.5,
